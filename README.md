@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @sloaneeliza , you can call me Sloane!
+- I am a Computer Science student at Belmont University! My main interest is Cybersecurity!
+- My main programming language is Java, but I also know Python and HTML :)
+- In my free time I enjoy painting, reading, and gaming.
+- 💖
