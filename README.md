@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @sloaneeliza 
 - I have a passion for all things cybersecurity.
-- Currently studying reverse engineering and malware dev. 🧐
-- Probably hanging out with my cat Tulip
+- I have the cutest coding buddy ever: my cat Tulip
