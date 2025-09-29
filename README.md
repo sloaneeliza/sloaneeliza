@@ -9,10 +9,8 @@ I am currently a senior at Belmont University studying computer science with an 
 
 <h3 align="center">My Github Stats 💻</h3>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sloaneeliza&layout=compact&hide=jupyter%20notebook&theme=tokyonight)
-
 <a href="https://github.com/sloaneeliza/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=sloaneeliza&theme=tokyonight" />
 </a>
 <a href="https://github.com/sloaneeliza/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sloaneeliza&layout=compact&hide=jupyter%20notebook&theme=tokyonight" />
