@@ -1,6 +1,6 @@
 <h3>Hello!</h3>
 
-<img width="1000" height="300" alt="headerimg" src="https://github.com/user-attachments/assets/bad6d2a0-f5ed-4e59-b516-37ff4d1cb4e7" />
+<img width="1000" height="300" alt="header1" src="https://github.com/user-attachments/assets/213c78eb-f9e6-4317-92ef-9582a2bd6247" />
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sloaneeliza&layout=compact&hide=jupyter%20notebook&theme=tokyonight)
