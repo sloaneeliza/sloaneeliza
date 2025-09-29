@@ -11,7 +11,12 @@ Outside of tech, I enjoy playing video games (I'm a huge Dead by Daylight enthus
 
 <h3 align="center">My Github Stats 💻</h3>
 
-<a href="https://github.com/sloaneeliza/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sloaneeliza&layout=compact&hide=jupyter%20notebook&theme=tokyonight" />
-</a>
-
+<div style="display: flex; align-items: center;">
+  <a href="https://github.com/sloaneeliza/github-readme-stats">
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sloaneeliza&layout=compact&hide=jupyter%20notebook&theme=tokyonight" />
+  </a>
+  <span style="margin-left: 15px;">
+    🌟 Some text next to the image  
+    <br/> 🔗 <a href="https://github.com/sloaneeliza">Check out my profile</a>
+  </span>
+</div>
