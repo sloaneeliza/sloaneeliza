@@ -1,8 +1,5 @@
 <h3>Hello!</h3>
-
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=sloaneeliza&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sloaneeliza&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sloaneeliza&layout=compact&hide=jupyter)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
