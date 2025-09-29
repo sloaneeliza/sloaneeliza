@@ -1,6 +1,6 @@
 <h3>Hello!</h3>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sloaneeliza&layout=compact&hide=jupyter)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sloaneeliza&layout=compact&hide=jupyternotebook)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
