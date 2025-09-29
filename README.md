@@ -11,4 +11,4 @@ I am currently a senior at Belmont University studying computer science with an 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sloaneeliza&layout=compact&hide=jupyter%20notebook&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sloaneeliza&layout=pie)](https://github.com/sloaneeliza/github-readme-stats&hide=jupyter%20notebook&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sloaneeliza&layout=pie&theme=tokyonight$hide=jupyter%20notebook)]
