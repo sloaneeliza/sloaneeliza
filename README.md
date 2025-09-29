@@ -5,13 +5,13 @@
 
 ## <p align="center">Welcome to my GitHub profile! ✨ 
   
-I am currently a senior at Belmont University studying computer science with an emphasis on cybersecurity. I have experience in fullstack development, web development, networking, security analyzation, and app development! I am passionate about the world of computer science and I am always trying to learn new things and challenge myself.🩷 Outside of tech, I enjoy playing video games (I'm a huge Dead by Daylight enthusiast), watching reality TV, eating yummy food, or spending time with my cat, Tulip. </p>
+I am currently a senior at Belmont University studying computer science with an emphasis on cybersecurity. I have experience in fullstack development, web development, networking, security analyzation, and app development! I am passionate about the world of computer science and I am always trying to learn new things and challenge myself.🩷 
+
+Outside of tech, I enjoy playing video games (I'm a huge Dead by Daylight enthusiast), watching reality TV, eating yummy food, or spending time with my cat, Tulip. 🐱 </p>
 
 <h3 align="center">My Github Stats 💻</h3>
 
 <a href="https://github.com/sloaneeliza/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=sloaneeliza&theme=tokyonight" />
 </a>
-<a href="https://github.com/sloaneeliza/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sloaneeliza&layout=compact&hide=jupyter%20notebook&theme=tokyonight" />
-</a>
+
