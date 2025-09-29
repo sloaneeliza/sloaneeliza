@@ -1,5 +1,6 @@
 <h3>Hello!</h3>
 
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=sloaneeliza&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sloaneeliza&theme=tokyonight)
 
