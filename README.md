@@ -1,6 +1,6 @@
 # <h3>Hello! 👋</h3>
 
-<img width="1000" height="300" alt="header1" src="https://github.com/user-attachments/assets/213c78eb-f9e6-4317-92ef-9582a2bd6247" />
+# <img width="1000" height="300" alt="header1" src="https://github.com/user-attachments/assets/213c78eb-f9e6-4317-92ef-9582a2bd6247" />
 
 
 ## <p align="center">Welcome to my GitHub profile! ✨ 
