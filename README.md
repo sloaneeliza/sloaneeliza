@@ -31,8 +31,12 @@ Outside of tech, I enjoy playing video games (I'm a huge Dead by Daylight enthus
     </td>
     <td valign="top">
       Want to get in touch?
+    <li>
       <a href="sloane.wright109@gmail.com"> ✉️ Email me!</a>
+    </li>
+      <li>
       <a href="https://www.linkedin.com/in/sloane-wright/"> 🤝 Connect with me on LinkedIn!</a>
+      </li>
     </td>
   </tr>
 </table>
