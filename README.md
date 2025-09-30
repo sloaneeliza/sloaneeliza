@@ -42,7 +42,7 @@ Outside of tech, I enjoy playing video games (I'm a huge Dead by Daylight enthus
 </table>
 
 ##
-<p align="center">👇 Check out some of my projects! 👇
+<h2 align="center">👇 Check out some of my projects! 👇 </h2>
 
 
 
