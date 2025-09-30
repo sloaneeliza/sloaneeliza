@@ -11,15 +11,25 @@ Outside of tech, I enjoy playing video games (I'm a huge Dead by Daylight enthus
 
 ## <h3 align="center">My Github Stats 💻</h3>
 
-<div style="display: flex; align-items: center;">
-  <a href="https://github.com/sloaneeliza/github-readme-stats">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sloaneeliza&layout=compact&hide=jupyter%20notebook&theme=tokyonight" />
-  </a>
-  <span style="margin-left: 15px;">
-    🌟 Other technologies I have experience with:
-    - Docker            - Three.js      
-    - Wireshark         - SQL              
-    - React             - AWS          
-    <br/> 🔗 <a href="https://github.com/sloaneeliza">Check out my profile</a>
-  </span>
-</div>
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/sloaneeliza/github-readme-stats">
+        <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sloaneeliza&layout=compact&hide=jupyter%20notebook&theme=tokyonight" />
+      </a>
+    </td>
+    <td valign="top">
+      🌟 Other technologies I have experience with:
+      <ul>
+        <li>Docker</li>
+        <li>Three.js</li>
+        <li>Wireshark</li>
+        <li>SQL</li>
+        <li>React</li>
+        <li>AWS</li>
+      </ul>
+      <a href="https://github.com/sloaneeliza">🔗 Check out my profile</a>
+    </td>
+  </tr>
+</table>
+
