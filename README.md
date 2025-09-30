@@ -28,7 +28,11 @@ Outside of tech, I enjoy playing video games (I'm a huge Dead by Daylight enthus
         <li>React</li>
         <li>AWS</li>
       </ul>
-      <a href="https://github.com/sloaneeliza">🔗 Check out my profile</a>
+    </td>
+    <td valign="top">
+      Want to get in touch?
+      <a href="sloane.wright109@gmail.com"> ✉️ Email me!</a>
+      <a href="https://www.linkedin.com/in/sloane-wright/"> 🤝 Connect with me on LinkedIn!</a>
     </td>
   </tr>
 </table>
