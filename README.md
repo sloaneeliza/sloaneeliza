@@ -42,9 +42,12 @@ Outside of tech, I enjoy playing video games (I'm a huge Dead by Daylight enthus
 </table>
 
 
-## <p align="center">
-  <img src="https://github.com/user-attachments/assets/ac608cfd-240e-4316-8347-b9c611aec061" alt="dinosaur" />
-</p>
+## <div align="center">
+
+![dinosaur](https://github.com/user-attachments/assets/ac608cfd-240e-4316-8347-b9c611aec061)
+
+</div>
+
 
 
 
