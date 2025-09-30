@@ -19,7 +19,7 @@ Outside of tech, I enjoy playing video games (I'm a huge Dead by Daylight enthus
       </a>
     </td>
     <td valign="top">
-      🌟 Other technologies I have experience with:
+      <h3>🌟 Other technologies I have experience with:</h3>
       <ul>
         <li>Docker</li>
         <li>Three.js</li>
@@ -30,7 +30,7 @@ Outside of tech, I enjoy playing video games (I'm a huge Dead by Daylight enthus
       </ul>
     </td>
     <td valign="top">
-      <h1>Want to get in touch?</h1>
+      <h3>Want to get in touch?</h3>
     <li>
       <a href="sloane.wright109@gmail.com"> ✉️ Email me!</a>
     </li>
