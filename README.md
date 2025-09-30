@@ -30,7 +30,7 @@ Outside of tech, I enjoy playing video games (I'm a huge Dead by Daylight enthus
       </ul>
     </td>
     <td valign="top">
-      Want to get in touch?
+      <bold>Want to get in touch?</bold>
     <li>
       <a href="sloane.wright109@gmail.com"> ✉️ Email me!</a>
     </li>
