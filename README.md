@@ -1,6 +1,6 @@
 # <h3>Hello! 👋</h3>
 #  
-<img width="1000" height="300" alt="header1" src="https://github.com/user-attachments/assets/213c78eb-f9e6-4317-92ef-9582a2bd6247" />
+<img width="1317" height="395" alt="Screenshot 2025-09-29 at 7 12 38 PM" src="https://github.com/user-attachments/assets/9be68583-eeb9-4fd3-9460-5846e1c06a0b" />
 
 
 ## <p align="center">Welcome to my GitHub profile! ✨ 
