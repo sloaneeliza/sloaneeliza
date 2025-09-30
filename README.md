@@ -19,7 +19,7 @@ Outside of tech, I enjoy playing video games (I'm a huge Dead by Daylight enthus
       </a>
     </td>
     <td valign="top">
-      <h5>🌟 Other technologies I have experience with:</h5>
+      <h4>🌟 Other technologies I have experience with:</h4>
       <ul>
         <li>Docker</li>
         <li>Three.js</li>
