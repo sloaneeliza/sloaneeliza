@@ -9,7 +9,7 @@ I am currently a senior at Belmont University studying computer science with an 
 
 Outside of tech, I enjoy playing video games (I'm a huge Dead by Daylight enthusiast), watching reality TV, eating yummy food, or spending time with my cat, Tulip. 🐱 </p>
 
-## <h3 align="center">My Github Stats 💻</h3>
+## <h3 align="center">💻 My Github Stats 💻</h3>
 
 <table>
   <tr>
