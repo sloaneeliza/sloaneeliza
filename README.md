@@ -5,9 +5,9 @@
 
 ## <p align="center">Welcome to my GitHub profile! ✨ 
   
-I am currently a senior at Belmont University studying computer science with an emphasis on cybersecurity. I have experience in fullstack development, web development, networking, security analyzation, and app development! I am passionate about the world of computer science and I am always trying to learn new things and challenge myself.🩷 
+I am currently a Technical Support Analyst @ CereCore. I specialize in information technology and cybersecurity, but I also enjoy dabbling in fullstack development, web development, and app development in my free time! I am passionate about the world of computer science and I am always trying to learn new things and challenge myself.🩷 
 
-Outside of tech, I enjoy playing video games (I'm a huge Dead by Daylight enthusiast), watching reality TV, eating yummy food, or spending time with my cat, Tulip. 🐱 </p>
+Outside of tech, I enjoy playing video games (I'm a huge Dead by Daylight enthusiast), watching reality TV, eating yummy food, or spending time with my cat, Tulip. 🐱 My favorite singers/bands are Rihanna, Pierce the Veil, and Childish Gambino. </p>
 
 ## <h3 align="center">💻 My Github Stats 💻</h3>
 
