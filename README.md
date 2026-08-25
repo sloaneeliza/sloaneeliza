@@ -15,7 +15,7 @@ Outside of tech, I enjoy playing video games (I'm a huge Dead by Daylight enthus
   <tr>
     <td>
       <a href="https://github.com/sloaneeliza/github-readme-stats">
-        <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sloaneeliza&layout=compact&hide=jupyter%20notebook&theme=tokyonight" />
+        <img height="200" src="https://github-stats-extended.vercel.app/api/top-langs/?username=sloaneeliza&layout=compact&hide=jupyter%20notebook&theme=tokyonight" />
       </a>
     </td>
     <td valign="top">
