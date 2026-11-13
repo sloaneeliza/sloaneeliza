@@ -7,7 +7,7 @@
  :  '  _ ;            `
 ;  :  /(\ \
 |  .       '.                          ‧₊˚ sloane wright ˚₊‧      
-|  ' /     --'                    ✧ code · data · cybersecurity ✧
+|  ' /     --'                    ✧ swe · data · cybersecurity ✧
 |  .   '.__\
 ;  :       /
  ;  .     |            ,
