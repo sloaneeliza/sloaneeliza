@@ -15,4 +15,4 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠀⠀⠀⠀⠀⠀⠀
 ```
 
-[check out my portfolio](https://sloanewright.com) ⋆｡°✩
+🫧[check out my portfolio](https://sloanewright.com) ⋆｡°✩
